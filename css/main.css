@@ -19,6 +19,7 @@ li.nav-item {
     align-self: center;
 }
 body {
+	overflow-x: hidden;
 	text-align: center;
 	background-color: var(--rizuri-bg);
 	color: white;
